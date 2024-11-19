@@ -1,0 +1,23 @@
+chat-application/
+│
+├── frontend/
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── ChatInterface.js
+│   │   │   └── MessageList.js
+│   │   ├── styles/
+│   │   │   └── index.css
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── package.json
+│   └── README.md
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── templates/
+│       └── index.html
+│
+└── README.md
